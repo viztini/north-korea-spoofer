@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "GeoSpoof — NK Edition",
-  "version": "1.0",
-  "description": "Spoofs browser geolocation to Pyongyang, North Korea.",
+  "name": "GeoSpoof",
+  "version": "2.0",
+  "description": "Spoofs browser geolocation, timezone, and related APIs.",
   "permissions": ["storage", "activeTab", "scripting"],
   "host_permissions": ["<all_urls>"],
   "action": {
