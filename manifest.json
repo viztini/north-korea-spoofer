@@ -1,13 +1,13 @@
 {
   "manifest_version": 3,
-  "name": "GeoSpoof",
+  "name": "north-korea-spoofer",
   "version": "2.0",
-  "description": "Spoofs browser geolocation, timezone, and related APIs.",
+  "description": "Spoofs browser geolocation, timezone, and related APIs to display your current location as North Korea.",
   "permissions": ["storage", "activeTab", "scripting"],
   "host_permissions": ["<all_urls>"],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "GeoSpoof"
+    "default_title": "NorthKoreaSpoofer"
   },
   "content_scripts": [
     {
